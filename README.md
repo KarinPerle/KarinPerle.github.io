@@ -1,6 +1,6 @@
-- Hi, I’m @KarinPerle
--  I’m interested in writing, playing the guitar, taking pictures and so on.
-- I’m currently learning Spanish, Japanese and cooking.
+- 你好，我是 @KarinPerle
+- 喜欢音乐，喜欢写作和摄影
+- 正在学习日语和西班牙语
 
 <!---
 KarinPerle is a  special repository because its `README.md` (this file) appears on your GitHub profile.
